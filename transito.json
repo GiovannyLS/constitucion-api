@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Artículo 1",
+    "contenido": "Este reglamento es de observancia obligatoria para todos los conductores, peatones y usuarios de las vías públicas en la ciudad."
+  },
+  {
+    "titulo": "Artículo 2",
+    "contenido": "Todo conductor debe portar licencia de conducir vigente y circular con la documentación del vehículo en regla."
+  },
+  {
+    "titulo": "Artículo 3",
+    "contenido": "El uso del cinturón de seguridad es obligatorio para el conductor y todos los ocupantes del vehículo."
+  },
+  {
+    "titulo": "Artículo 4",
+    "contenido": "Queda prohibido el uso de teléfonos móviles u otros dispositivos que distraigan al conductor mientras maneja, salvo con manos libres."
+  },
+  {
+    "titulo": "Artículo 5",
+    "contenido": "Los peatones tienen preferencia de paso en las esquinas y zonas marcadas, así como cuando el semáforo lo indique."
+  }
+]
