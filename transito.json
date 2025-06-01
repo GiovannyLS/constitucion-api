@@ -1,27 +1,37 @@
 [
   {
-    "titulo": "Artículo 1",
-    "contenido": "Este reglamento es de observancia obligatoria para todos los conductores, peatones y usuarios de las vías públicas en la ciudad.",
-    "descripcionInfraccion": "Te multan"
-  },
-  {
-    "titulo": "Artículo 2",
-    "contenido": "Todo conductor debe portar licencia de conducir vigente y circular con la documentación del vehículo en regla.",
-    "descripcionInfraccion": "Una multa de $1000 peso mexicanos"
-  },
-  {
-    "titulo": "Artículo 3",
-    "contenido": "El uso del cinturón de seguridad es obligatorio para el conductor y todos los ocupantes del vehículo.",
-    "descripcionInfraccion": "Una multa con $500 pesos mexicanos"
-  },
-  {
-    "titulo": "Artículo 4",
-    "contenido": "Queda prohibido el uso de teléfonos móviles u otros dispositivos que distraigan al conductor mientras maneja, salvo con manos libres.",
-    "descripcionInfraccion": "Una multa de $2000 pesos"
-  },
-  {
-    "titulo": "Artículo 5",
-    "contenido": "Los peatones tienen preferencia de paso en las esquinas y zonas marcadas, así como cuando el semáforo lo indique.",
-    "descripcionInfraccion": "Una multa de $5000 pesos mexicanos"
+    "titulo": "Título I - Disposiciones Generales",
+    "capitulos": [
+      {
+        "nombre": "Capítulo I - Reglas Básicas de Circulación",
+        "articulos": [
+          {
+            "numero": "Artículo 1",
+            "contenido": "Este reglamento es de observancia obligatoria para todos los conductores, peatones y usuarios de las vías públicas en la ciudad.",
+            "descripcionInfraccion": "Te multan"
+          },
+          {
+            "numero": "Artículo 2",
+            "contenido": "Todo conductor debe portar licencia de conducir vigente y circular con la documentación del vehículo en regla.",
+            "descripcionInfraccion": "Una multa de $1000 pesos mexicanos"
+          },
+          {
+            "numero": "Artículo 3",
+            "contenido": "El uso del cinturón de seguridad es obligatorio para el conductor y todos los ocupantes del vehículo.",
+            "descripcionInfraccion": "Una multa con $500 pesos mexicanos"
+          },
+          {
+            "numero": "Artículo 4",
+            "contenido": "Queda prohibido el uso de teléfonos móviles u otros dispositivos que distraigan al conductor mientras maneja, salvo con manos libres.",
+            "descripcionInfraccion": "Una multa de $2000 pesos"
+          },
+          {
+            "numero": "Artículo 5",
+            "contenido": "Los peatones tienen preferencia de paso en las esquinas y zonas marcadas, así como cuando el semáforo lo indique.",
+            "descripcionInfraccion": "Una multa de $5000 pesos mexicanos"
+          }
+        ]
+      }
+    ]
   }
 ]
