@@ -1,32 +1,38 @@
-[
-  {
-    "titulo": "Título I - Disposiciones Generales",
-    "capitulos": [
-      {
-        "nombre": "Capítulo I - Ámbito de Aplicación",
-        "articulos": [
-          {
-            "numero": "Artículo 1",
-            "contenido": "Este reglamento es de observancia obligatoria...",
-            "descripcionInfraccion": "Te multan",
-            "fracciones": [
-              {
-                "texto": "Fracción I - Aplica a todos los vehículos motorizados.",
-                "descripcionInfraccion": "Multa de $300"
-              },
-              {
-                "texto": "Fracción II - Incluye motocicletas y transporte público.",
-                "descripcionInfraccion": "Advertencia verbal"
-              }
-            ]
-          },
-          {
-            "numero": "Artículo 2",
-            "contenido": "Todo conductor debe portar licencia...",
-            "descripcionInfraccion": "Multa de $1000"
-          }
-        ]
-      }
-    ]
-  }
-]
+{
+  "nombre": "Reglamento de Tránsito del Estado",
+  "titulos": [
+    {
+      "nombre": "Título I - Disposiciones Generales",
+      "capitulos": [
+        {
+          "nombre": "Capítulo I - Ámbito de Aplicación",
+          "articulos": [
+            {
+              "titulo": "Artículo 1",
+              "contenido": "Este reglamento es de observancia obligatoria...",
+              "descripcionInfraccion": "Multa general de $500",
+              "fracciones": [
+                {
+                  "numero": "Fracción I",
+                  "texto": "Aplica a todos los vehículos motorizados.",
+                  "descripcionInfraccion": "Multa de $300"
+                },
+                {
+                  "numero": "Fracción II",
+                  "texto": "Incluye motocicletas y transporte público.",
+                  "descripcionInfraccion": "Advertencia verbal"
+                }
+              ]
+            },
+            {
+              "titulo": "Artículo 2",
+              "contenido": "Todo conductor debe portar licencia...",
+              "descripcionInfraccion": "Multa de $1000",
+              "fracciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
