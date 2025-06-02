@@ -9,7 +9,7 @@
           "articulos": [
             {
               "titulo": "Artículo 1",
-              "contenido": "Este reglamento es de observancia obligatoria...",
+              "contenido": "Este reglamento es de observancia obligatoria para todos los conductores...",
               "descripcionInfraccion": "Multa general de $500",
               "fracciones": [
                 {
@@ -26,8 +26,41 @@
             },
             {
               "titulo": "Artículo 2",
-              "contenido": "Todo conductor debe portar licencia...",
+              "contenido": "Todo conductor debe portar licencia vigente...",
               "descripcionInfraccion": "Multa de $1000",
+              "fracciones": []
+            }
+          ]
+        },
+        {
+          "nombre": "Capítulo II - Señalización",
+          "articulos": [
+            {
+              "titulo": "Artículo 3",
+              "contenido": "Los conductores deben respetar todas las señales de tránsito...",
+              "descripcionInfraccion": "Multa de $800",
+              "fracciones": [
+                {
+                  "numero": "Fracción I",
+                  "texto": "No respetar semáforos.",
+                  "descripcionInfraccion": "Multa de $600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Título II - Infracciones y Sanciones",
+      "capitulos": [
+        {
+          "nombre": "Capítulo I - Infracciones comunes",
+          "articulos": [
+            {
+              "titulo": "Artículo 4",
+              "contenido": "Conducir bajo los efectos del alcohol está prohibido...",
+              "descripcionInfraccion": "Multa de $5000 y suspensión de licencia",
               "fracciones": []
             }
           ]
