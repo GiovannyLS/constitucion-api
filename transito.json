@@ -56,6 +56,26 @@
                   "numero": "Fracción I",
                   "texto": "I. Emitir las disposiciones relativas a la regulación y vigilancia del tránsito en las vías públicas del Estado, y en las convenidas y coordinadas con la Federación, y otras entidades federativas;",
                   "descripcionInfraccion": ""
+                },
+                {
+                    "numero": "Fracción II",
+                    "texto": "II. Acordar y ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos;",
+                    "descripcionInfraccion": ""
+                },
+                {
+                    "numero": "Fracción III",
+                    "texto": "III. Suscribir convenios de coordinación de funciones y prestación del servicio de tránsito con los municipios del Estado;",
+                    "descripcionInfraccion": ""
+                },
+                {
+                  "numero": "Fracción IV",
+                  "texto": "IV. Suscribir convenios con las autoridades federales, y de las entidades federativas, para coordinar los sistemas de tránsito, del control de vehículos y conductores de los mismos, cuando se trate de servicios en los que tengan intereses las entidades citadas; y",
+                  "descripcionInfraccion": ""
+                },
+                {
+                  "numero": "Fracción V",
+                  "texto": "V. Las demás que determina la ley de la materia, este reglamento y las que se justifiquen por las necesidades públicas.",
+                  "descripcionInfraccion": ""
                 }
               ]
             }
