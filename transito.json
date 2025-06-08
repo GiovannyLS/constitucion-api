@@ -10,40 +10,52 @@
             {
               "titulo": "Artículo 1",
               "contenido": " El presente Reglamento es de orden público e interés social y de aplicación obligatoria en  todos los municipios del Estado. Tiene por objeto establecer las normas a las que deberá sujetarse el tránsito de peatones y el de vehículos en vías de jurisdicción estatal y en aquellas de carácter federal, cuya vigilancia y control convengan con la Federación.",
-              "descripcionInfraccion": "Corralón: Si       ------      Multa: 20 (DSM)",
+              "descripcionInfraccion": "No aplica sanción directa. Este artículo establece el carácter obligatorio del reglamento, pero no impone multa ni retención de vehículo.",
+              "fracciones": []
+            },
+            {
+              "titulo": "Artículo 2",
+              "contenido": "La aplicación del presente reglamento compete a las autoridades estatales y municipales en las respectivas esferas de su competencia, de acuerdo a lo previsto en la ley de la materia, en este reglamento, en los convenios y acuerdos que se suscriban y demás disposiciones legales.",
+              "descripcionInfraccion": "No aplica sanción directa. Este artículo establece competencias entre autoridades, sin imponer multas al ciudadano.",
+              "fracciones": []
+            },
+            {
+              "titulo": "Artículo 3",
+              "contenido": "Las autoridades de tránsito del Estado, en los términos establecidos en la ley de la materia están facultades para dictar las disposiciones necesarias a efecto de regular y planear el tránsito de peatones y de vehículos en las vías públicas de la Entidad, con objeto de garantizar al máximo la seguridad de las personas, sus bienes, el medio ambiente y el orden público.",
+              "descripcionInfraccion": "No aplica sanción directa. Este artículo otorga facultades a las autoridades, pero no impone multas al ciudadano por su contenido.",
               "fracciones": [
                 {
                   "numero": "Fracción I",
-                  "texto": "Aplica a todos los vehículos motorizados.",
-                  "descripcionInfraccion": "Multa de $300"
+                  "texto": "Conducir sin licencia vigente.",
+                  "descripcionInfraccion": "Multa de $1000"
                 },
                 {
                   "numero": "Fracción II",
-                  "texto": "Incluye motocicletas y transporte público.",
-                  "descripcionInfraccion": "Advertencia verbal"
+                  "texto": "No portar documentos del vehículo.",
+                  "descripcionInfraccion": "Multa de $300"
                 }
               ]
             },
             {
-              "titulo": "Artículo 2",
-              "contenido": "Todo conductor debe portar licencia vigente...",
-              "descripcionInfraccion": "Multa de $1000",
+              "titulo": "Artículo 4",
+              "contenido": "El Titular del Ejecutivo del Estado podrá suscribir con los Gobiernos municipales, con las autoridades federales y de otras entidades federativas, convenios para la prestación coordinada del servicio público de tránsito.",
+              "descripcionInfraccion": "No aplica sanción directa. Este artículo se refiere a coordinación entre autoridades y no impone multas a los ciudadanos.",
               "fracciones": []
             }
           ]
         },
         {
-          "nombre": "Capítulo II - Señalización",
+          "nombre": "Capítulo II - DE LAS AUTORIDADES DE TRANSITO.",
           "articulos": [
             {
-              "titulo": "Artículo 3",
-              "contenido": "Los conductores deben respetar todas las señales de tránsito...",
-              "descripcionInfraccion": "Multa de $800",
+              "titulo": "Artículo 5",
+              "contenido": "Son atribuciones del Ejecutivo del Estado en materia de tránsito:",
+              "descripcionInfraccion": "No aplica sanción directa. Este artículo enumera facultades del Ejecutivo estatal y no establece infracciones ciudadanas.",
               "fracciones": [
                 {
                   "numero": "Fracción I",
-                  "texto": "No respetar semáforos.",
-                  "descripcionInfraccion": "Multa de $600"
+                  "texto": "I. Emitir las disposiciones relativas a la regulación y vigilancia del tránsito en las vías públicas del Estado, y en las convenidas y coordinadas con la Federación, y otras entidades federativas;",
+                  "descripcionInfraccion": ""
                 }
               ]
             }
@@ -58,7 +70,7 @@
           "nombre": "Capítulo I - Infracciones comunes",
           "articulos": [
             {
-              "titulo": "Artículo 4",
+              "titulo": "Artículo 7",
               "contenido": "Conducir bajo los efectos del alcohol está prohibido...",
               "descripcionInfraccion": "Multa de $5000 y suspensión de licencia",
               "fracciones": []
