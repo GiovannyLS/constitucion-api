@@ -23,18 +23,7 @@
               "titulo": "Artículo 3",
               "contenido": "Las autoridades de tránsito del Estado, en los términos establecidos en la ley de la materia están facultades para dictar las disposiciones necesarias a efecto de regular y planear el tránsito de peatones y de vehículos en las vías públicas de la Entidad, con objeto de garantizar al máximo la seguridad de las personas, sus bienes, el medio ambiente y el orden público.",
               "descripcionInfraccion": "No aplica sanción directa. Este artículo otorga facultades a las autoridades, pero no impone multas al ciudadano por su contenido.",
-              "fracciones": [
-                {
-                  "numero": "Fracción I",
-                  "texto": "Conducir sin licencia vigente.",
-                  "descripcionInfraccion": "Multa de $1000"
-                },
-                {
-                  "numero": "Fracción II",
-                  "texto": "No portar documentos del vehículo.",
-                  "descripcionInfraccion": "Multa de $300"
-                }
-              ]
+              "fracciones": []
             },
             {
               "titulo": "Artículo 4",
@@ -78,6 +67,113 @@
                   "descripcionInfraccion": ""
                 }
               ]
+            },
+            {
+                "titulo": "Artículo 6",
+                "contenido": "Corresponde a la Secretaría de Gobierno en materia de tránsito:",
+                "descripcionInfraccion": "No aplica sanción directa. Este artículo detalla facultades de las autoridades de tránsito, sin imponer multas a ciudadanos.",
+                "fracciones": [
+                    {
+                    "numero": "Fracción I",
+                    "texto": "I. Vigilar la observancia y aplicación de la ley de la materia, de este reglamento, de los acuerdos y convenios que se suscriban, así como de las disposiciones de carácter administrativo que emanen de esos ordenamientos;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción II",
+                    "texto": "II. Dictar las medidas conducentes para la administración, vigilancia y control del tránsito en las vías públicas de jurisdicción estatal;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción III",
+                    "texto": "III. Proporcionar asesoría en materia de tránsito a los ayuntamientos que lo soliciten;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción IV",
+                    "texto": "IV. Ejecutar, supervisar y controlar las actividades de tránsito;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción V",
+                    "texto": "V. Coordinar y supervisar las actividades de los elementos de tránsito;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción VI",
+                    "texto": "VI. Ordenar y supervisar la realización de trámites administrativos relacionados con la matriculación, verificación, inspección mecánica y control de vehículos; licencias y permisos provisionales para conducir vehículos automotores, y la calificación y pago de infracciones y derechos por servicios al público;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción VII",
+                    "texto": "VII. Controlar la vigilancia del tránsito vehicular en vías públicas del Estado, así como en las convenidas y coordinadas con la Federación;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción VIII",
+                    "texto": "VIII. Opinar respecto del señalamiento de tránsito en las vías públicas;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción IX",
+                    "texto": "IX. Establecer las restricciones para el tránsito de vehículos en la vía pública, con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción X",
+                    "texto": "X. Supervisar el servicio de grúas como auxiliares de los agentes de tránsito;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XI",
+                    "texto": "XI. Proponer los espacios para el depósito de vehículos que por alguna causa deban ser retirados de la circulación;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XII",
+                    "texto": "XII. Apoyar y supervisar la capacitación de los aspirantes y de los elementos activos del cuerpo de tránsito;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XIII",
+                    "texto": "XIII. Programar, apoyar y encauzar la educación vial;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XIV",
+                    "texto": "XIV. Auxiliar a las autoridades judiciales y administrativas, tanto federales como estatales y municipales, así como militares, para el cumplimiento de sus determinaciones, siempre que lo requieran y sean procedentes;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XV",
+                    "texto": "XV. Cumplir y hacer cumplir en la esfera de su competencia, los ordenamientos federales y estatales en materia de protección del ambiente, del equilibrio ecológico y para prevención y control de la contaminación generada por vehículos automotores;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XVI",
+                    "texto": "XVI. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en relación con el tránsito de peatones y de vehículos en caso de terremoto, explosión, inundación o cualquier otro siniestro, asalto, actos de vandalismo, manifestaciones y marchas, accidentes graves o cualquier alteración del orden público;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XVII",
+                    "texto": "XVII. Autorizar y ordenar el retiro de la vía pública de los vehículos, objetos, personas o animales que obstaculicen o pongan en peligro el tránsito, remitiéndolos a los depósitos correspondientes y presentando a las personas ante las autoridades competentes en caso de delito o falta grave;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XVIII",
+                    "texto": "XVIII. Atender y resolver las quejas del público, sobre la prestación del servicio;",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XIX",
+                    "texto": "XIX. Imponer las sanciones por infracciones al presente reglamento, siempre que no correspondan a los ayuntamientos; y",
+                    "descripcionInfraccion": ""
+                    },
+                    {
+                    "numero": "Fracción XX",
+                    "texto": "XX. Las demás que determinen la ley de la materia, este reglamento, y las que se justifiquen por las necesidades públicas",
+                    "descripcionInfraccion": ""
+                    }
+                ]
             }
           ]
         }
